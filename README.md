@@ -124,7 +124,7 @@ This system provides an affordable and efficient solution for monitoring environ
 
 ## Authors
 
-- Dhinesh G G
+- Dhinesh G 
 - Project Team Members
 
 ---
